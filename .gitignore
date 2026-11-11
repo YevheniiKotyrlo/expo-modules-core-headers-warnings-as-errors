@@ -39,3 +39,10 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# check.sh
+install.log
+prebuild.log
+build.log
+build/
+main-header.h
